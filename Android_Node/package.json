@@ -1,0 +1,11 @@
+{
+  "name": "android_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "test command"
+  },
+  "author": "PanGeun Jeon",
+  "license": "ISC"
+}
